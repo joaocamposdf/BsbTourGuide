@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bsb Tour Guide</string>
+    <string name="food">Food</string>
+    <string name="madero">Madero Steak House</string>
+    <string name="madero_location">geo:0,0?q=Madero Steak House, Park Shopping, Brasilia, Distrito Federal</string>
+    <string name="outback">Outback Steak House</string>
+    <string name="outback_location">geo:0,0?q=Outback Steak House, Park Shopping, Brasilia, Distrito Federal</string>
+    <string name="cityPark">City Park</string>
+    <string name="cityPark_location">geo:0,0?q=Parque da Cidade, Brasília, Distrito Federal</string>
+    <string name="parks">Parks</string>
+    <string name="olhosdaguaPark">Olhos d\'água Park</string>
+    <string name="olhosdagua_location">geo:0,0?q=Parque Olhos dágua, Brasília, Distrito Federal</string>
+    <string name="shopping">Shopping</string>
+    <string name="parkShopping">Park Shopping</string>
+    <string name="pier21Shopping">Pier 21 Shopping</string>
+    <string name="parkShopping_location">geo:0,0?q=Park Shopping, Brasilia, Distrito Federal</string>
+    <string name="pier21Shopping_location">geo:0,0?q=Pier 21 Shopping, Brasilia, Distrito Federal</string>
+    <string name="publicPlaces">Public Places</string>
+    <string name="ministries_avenue">Ministries Avenue</string>
+    <string name="tv_tower">TV Tower</string>
+    <string name="tvTower_location">geo:0,0?q=Torre de TV, Brasilia, Distrito Federal</string>
+    <string name="ministriesAvenue_location">geo:0,0?q=Esplanada dos Ministérios Bloco A, Brasília, Distrito Federal</string>
+    <string name="landi">Landi\'s Hot Dog</string>
+    <string name="landi_location">geo:0,0?q=Cachorro quente do Landi, Asa Sul, Brasilia, Distrito Federal</string>
+    <string name="pastel_mix">Pastel Mix</string>
+    <string name="pastelMix_location">geo:0,0?q=Pastel Mix, Asa Sul, Brasilia, Distrito Federal</string>
+    <string name="nationalPark">National Park</string>
+    <string name="nationalPark_location">geo:0,0?q=Parque Nacional de Brasilia, Distrito Federal</string>
+    <string name="iguatemiShopping">Iguatemi Shopping</string>
+    <string name="iguatemiShopping_location">geo:0,0?q=Iguatemi Shopping,Brasília, Distrito Federal</string>
+    <string name="cathedral">Cathedral of Brasília</string>
+    <string name="cathedral_location">geo:0,0?q=Catedral de Brasília, Distrito Federal</string>
+    <string name="memorialJK">JK Memorial</string>
+    <string name="memorialJK_location">geo:0,0?q=Memorial JK, Brasília, Distrito Federal</string>
+    <string name="boulevardShopping">Boulevard Shopping</string>
+    <string name="boulevardShopping_location">geo:0,0?q=Boulevard Shopping, Brasília, Distrito Federal</string>
+    <string name="southwestPark">Southwest Park</string>
+    <string name="southwestPark_location">geo:0,0?q=Parque Bosque do Sudoeste</string>
+</resources>
