@@ -3,7 +3,7 @@ package com.example.android.bsbtourguide;
 /**
  * Created by Note on 16/07/2017.
  */
-
+//Declares which items will be displayed on the list
 public class Attractions {
     private String name;
     private String location;

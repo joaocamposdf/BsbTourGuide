@@ -28,7 +28,7 @@ public class AttractionsAdapter extends ArrayAdapter<Attractions> {
         if (listItemView==null){
             listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item, parent, false);
         }
-
+//Display or not each part of the list_item.xml
         Attractions currentattraction = getItem(position);
         ImageView attractionImage = (ImageView) listItemView.findViewById(R.id.attractionImage);
         attractionImage.setImageResource(currentattraction.getImage());
@@ -36,6 +36,7 @@ public class AttractionsAdapter extends ArrayAdapter<Attractions> {
         TextView attractionName = (TextView) listItemView.findViewById(R.id.attractionName);
         attractionName.setText(currentattraction.getName());
 
+//This TextView was not shown, because it was the way I found to match each attraction location to the item clicked on the list.
         TextView attractionLocation = (TextView) listItemView.findViewById(R.id.attractionLocation);
         attractionLocation.setText(currentattraction.getLocation());
         attractionLocation.setVisibility(View.GONE);

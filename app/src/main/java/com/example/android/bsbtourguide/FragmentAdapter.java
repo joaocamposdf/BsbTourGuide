@@ -17,6 +17,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         this.context = context;
     }
 
+//    Displays each fragment into the tabs according to the position requested
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
@@ -30,12 +31,13 @@ public class FragmentAdapter extends FragmentPagerAdapter {
 
     }
 
-
+    //Handle the number of tabs shown
     @Override
     public int getCount() {
         return 4;
     }
 
+    //Shows the titles of each tab
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
